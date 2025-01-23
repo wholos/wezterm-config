@@ -2,4 +2,4 @@
 Config to emulator terminal 'WezTerm'
 
 Screenshots:
-![alt text](https://imgur.com/a/3yVEF0Q)
+![1 Screen](https://github.com/blob/main/screen.png)
