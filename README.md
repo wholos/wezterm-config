@@ -6,6 +6,7 @@ Screenshots:
 ![2 Screen](https://github.com/wholos/wezterm-config/blob/main/screen2.png)
 
 Updates:
+
 UPD: 24.01.25 - Fix bug to notification
 
 ![3 Screen](https://github.com/wholos/wezterm-config/blob/main/bugwtcfg.png)
